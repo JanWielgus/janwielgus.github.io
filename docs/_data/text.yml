@@ -55,7 +55,7 @@ pl: &DEFAULT_PL
   table_of_contents: "Spis treści"
   results_found: "Wyników"
   share: "Udostępnij"
-  tweet: "Udostępnij na X"
+  tweet: "X"
   next: "Następny"
   previous: "Poprzedni"
   newer: "Nigdy"
