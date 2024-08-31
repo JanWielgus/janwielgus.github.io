@@ -20,7 +20,7 @@ locale: pl-PL
 title: "Jan Wielgus Blog"
 description: "Chcha woda brzegi rwie!"
 baseurl: "/"
-url: "https://janwielgus.github.io"
+url: "https://janwielgus.pl"
 logo: "/images/chat_gpt_logo.webp"
 date_format: "%-d %B %Y"
 read_time: true
