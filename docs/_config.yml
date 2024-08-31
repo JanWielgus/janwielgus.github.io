@@ -21,7 +21,7 @@ title: "Jan Wielgus Blog"
 description: "Pracuję nad opisem strony"
 baseurl: "/"
 url: "https://janwielgus.github.io"
-logo: "/images/so-simple-site-logo.png"
+logo: "/images/chat_gpt_logo.webp"
 date_format: "%-d %B %Y"
 read_time: true
 words_per_minute: 180
@@ -51,7 +51,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 
 # Search
