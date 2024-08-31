@@ -45,10 +45,12 @@
 
 .entry-image {
   -webkit-box-ordinal-group: 0;
-  -ms-flex-order: -1;
-  order: -1;
-  width: 100%;
-  margin-bottom: 0.5rem;
+  -ms-flex-order: 3;
+  order: 3;
+  width: 50%;
+  height: 50%;
+  // margin-bottom: 0.5rem;
+  padding-left: 1rem;
 }
 
 .entry-meta {
@@ -69,6 +71,18 @@
 .u-bookmark-of {
   position: relative;
   z-index: 10;
+}
+
+.entry-excerpt-and-image {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  // background-colorj: aqua;
+  // align-items: center;
 }
 
 /*
