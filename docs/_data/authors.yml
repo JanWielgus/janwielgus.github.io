@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Jan Wielgus:
+  name: Jan Wielgus
+  picture: /images/bio-photo.jpg
+  twitter: "@JanWielgus"
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square
