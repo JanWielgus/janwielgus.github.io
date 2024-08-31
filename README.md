@@ -15,3 +15,6 @@ https://jekyllthemes.io/free
 A tu są wszystkie blogowe, płatne i bezpłatne:
 https://jekyllthemes.io/jekyll-blog-themes
 
+Komenda do testowania jekyll lokalnie (i automatycznego odświeżania po zmianach):
+`bundle exec jekyll serve --livereload`
+
