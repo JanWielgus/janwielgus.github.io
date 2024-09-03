@@ -3,8 +3,8 @@ layout: post
 title:  "Mój pierwszy post"
 date:   2023-06-04 23:00:21 +0200
 image:
-    path: /images/2023/52809415206_638dc916e1_o.png
-    thumbnail: /images/2023/52809415206_638dc916e1_o.png
+    path: /images/2023/2023-06-04-tapeta-linux_cut.png
+    thumbnail: /images/2023/2023-06-04-TH.png
 excerpt:
     "To jest mój pierwszy post. Chciałbym poprowadzić swojego bloga."
 ---
