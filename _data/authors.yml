@@ -3,9 +3,9 @@
 
 Jan Wielgus:
   name: Jan Wielgus
-  picture: /images/bio-photo.jpg
+  picture: /images/bio-photo.webp
   twitter: "@JanWielgus"
-  links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
+  # links:
+  #   - title: Twitter
+  #     url: https://twitter.com/billyrick
+  #     icon: fab fa-twitter-square
