@@ -31,6 +31,7 @@ a img.align-center {
   display: block;
   margin-right: auto;
   margin-left: auto;
+  border-radius: 0.5rem;
 }
 
 figure.align-center {
@@ -38,6 +39,7 @@ figure.align-center {
     display: block;
     margin-right: auto;
     margin-left: auto;
+    border-radius: 0.5rem;
   }
 
   figcaption {
@@ -50,6 +52,7 @@ a img.align-right {
   margin-bottom: 1rem;
   margin-left: 1rem;
   float: right;
+  border-radius: 0.5rem;
 }
 
 .align-left,
@@ -57,4 +60,5 @@ a img.align-left {
   margin-right: 1rem;
   margin-bottom: 1rem;
   float: left;
+  border-radius: 0.5rem;
 }
