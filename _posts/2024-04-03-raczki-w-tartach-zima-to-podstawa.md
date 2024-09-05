@@ -19,7 +19,7 @@ Nie są drogie, mogą być nawet te najtańsze - ważne żeby je mieć. **_Waż�
 **Raczki to coś innego niż raki.**
 
 <figure class="align-center">
-  <img src="{{ '/images/2024-04-03-raki-a-raczki.webp' | absolute_url }}" alt="Kupa kamieni">
+  <img src="{{ '/images/2024-04-03-raki-a-raczki.webp' | absolute_url }}" alt="Raczki a Raki">
   <figcaption>Po lewej <b>RACZKI</b>, a po prawej <b>RAKI</b></figcaption>
 </figure>
 
