@@ -3,8 +3,8 @@ layout: post
 title:  "Czy cisza ma znaczenie?"
 date:   2024-07-13 10:53:15 +0200
 image:
-    path: /images/2024-07-13-czy-cisza-ma-znaczenie_2.jpg
-    thumbnail: /images/2024-07-13-TH.jpg
+    path: /images/2024-07-13-czy-cisza-ma-znaczenie.webp
+    thumbnail: /images/2024-07-13-TH.webp
 excerpt:
     "Razem z moją kochaną żoną wynajmujemy obecnie mieszkanie w Gliwicach, niedaleko dosyć ruchliwej ulicy.
     Za kilka miesięcy przeprowadzimy się do domu jednorodzinnego w cichej okolicy małego miasta.
