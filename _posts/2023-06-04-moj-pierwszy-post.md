@@ -4,7 +4,7 @@ title:  "Mój pierwszy post"
 date:   2023-06-04 23:00:21 +0200
 image:
     path: /images/2023-06-04-tapeta-linux_cut.png
-    thumbnail: /images/2023-06-04-TH.png
+    thumbnail: /images/2023-06-04-TH.webp
 excerpt:
     "To jest mój pierwszy post. Chciałbym poprowadzić swojego bloga."
 ---
