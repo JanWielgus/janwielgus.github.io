@@ -41,11 +41,11 @@ I tutaj cię zaskoczę. Obiekt. który wpada do czarnej dziury, nie wygląda jak
 
 Dobrym wyobrażeniem horyzontu zdarzeń jest studnia czasoprzestrzenna. Na jej zboczach znajduje się czasoprzestrzenny wodospad. Istnieje granica, która jeśli zostanie przekroczona, obiekt spadnie w dół do studni.
 
-**< tutaj niedługo będzie zdjęcie ;) >**
-
-Studnia grawitacyjna czarnej dziury
-Wizualizacja pola grawitacyjnego dookoła czarnej dziury.
-Źródło: https://moviesandscience.com/blog/science/blackhole
+<figure class="align-center">
+  <img src="{{ '/images/2024-05-10-gravity-well.png' | absolute_url }}" alt="">
+  <figcaption>Studnia grawitacyjna czarnej dziury<br>
+  Źródło: <a href="https://moviesandscience.com/blog/science/blackhole">https://moviesandscience.com/blog/science/blackhole</a></figcaption>
+</figure> 
 
 ## Część szalona
 
