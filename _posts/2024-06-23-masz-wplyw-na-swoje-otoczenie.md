@@ -2,19 +2,23 @@
 layout: post
 title: "Masz wpływ na swoje otoczenie!"
 date: 2024-06-23 20:41:00 +0200
+image:
+    thumbnail: /images/2024-06-23-TH.webp
 excerpt:
-    "Czy, idąc górskim szlakiem, spotkaliście kiedyś górę kamieni, która wygląda, jak gdyby wysypała ją ciężarówka?
+    "Czy, idąc górskim szlakiem, spotkałeś kiedyś górę kamieni, która wygląda, jak gdyby wysypała ją ciężarówka?
     Ta sterta powstała dzięki temu, że wiele przechodzących osób dołożyło mały kamyczek.
     Takie samo odczucie będzie miało 1000 osób po nim. A jednak każdy kamyczek ma znaczenie!
 "
 ---
 
-Czy, idąc górskim szlakiem, spotkaliście kiedyś górę kamieni, która wygląda, jak gdyby wysypała ją ciężarówka?
+Czy, idąc górskim szlakiem, spotkałeś kiedyś górę kamieni, która wygląda, jak gdyby wysypała ją ciężarówka?
 
-Na przykład o taką: 
-**<jeszcze moment i będzie tu zdjęcie ;)>**
+Na przykład o taką:
 
-Tutaj kiedyś będzie moje zdjęcie, ale muszę z powrotem wybrać się na Krywań ;)
+<figure class="align-center">
+  <img src="{{ '/images/2024-06-23-kupa-kamieni.webp' | absolute_url }}" alt="Kupa kamieni">
+</figure>
+
 Ta sterta powstała dzięki temu, że wiele przechodzących osób dołożyło mały kamyczek. Rzucający nie zauważy żadnej różnicy w wielkości. Nie poczuje, że coś się zmieniło. Dla niego góra dalej jest takiego samego rozmiaru, co wcześniej. Takie samo odczucie będzie miało 1000 osób po nim. A jednak każdy kamyczek ma znaczenie! Ta góra składa się z małych kamyczków!
 
 Od jakiegoś czasu, gdy idąc pieszo widzę, że koło mnie leży śmieć: butelka, folia, papierek, etc., podnoszę go i wyrzucam do najbliższego kosza na śmieci.
