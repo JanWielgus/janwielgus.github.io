@@ -4,6 +4,8 @@ title: "Tatrzańska przygoda we mgle"
 date: 2024-04-15 22:42:00 +0200
 excerpt:
     "Opowiem Ci dzisiaj o najbardziej niebezpiecznej przygodzie, jaka spotkała mnie w górach. Brzmi to groźnie. Jednak wspominam ją dobrze i zdobyłem wtedy dużo doświadczenia. Takie uczenie się na własnej skórze, sam wiesz..."
+image:
+    thumbnail: images/2024-04-15-TH.webp
 ---
 
 Opowiem Ci dzisiaj o najbardziej niebezpiecznej przygodzie, jaka spotkała mnie w górach. Brzmi to groźnie. Jednak wspominam ją dobrze i zdobyłem wtedy dużo doświadczenia. Takie uczenie się na własnej skórze, sami wiecie...
@@ -25,8 +27,10 @@ Czerwone Wierchy to takie nie za trudne, wijące się grzbiety gór z malowniczy
 
 Tak jak poprzednim razem, wycieczka miała mieć początek w Dolinie Kościelisko i kończyć się w Kuźnicach (zgodnie z zasadą: “lepiej w ogóle nie wracać, niż wracać tą samą drogą” :wink:). Dzięki temu jesteśmy w stanie przejść (jak i zobaczyć) spory fragment Tatr.
 
-**ZDJECIE**
-**Trasa którą przeszliśmy**
+<figure class="align-center">
+  <img src="{{ '/images/2024-04-15-cala-trasa-z-gory.webp' | absolute_url }}" alt="Mapa trasy">
+  <figcaption>Trasa, którą przeszliśmy</figcaption>
+</figure>
 
 Z Zakopanego do Doliny Kościeliskiej w miarę często jeżdżą prywatne busy (tutaj bardzo pomagają Google Maps). Gorzej jest z komunikacją miejską w Zakopanem, na której można się mocno przejechać (mówię z autopsji). żeby mieć jak wrócić na nocleg na Harendzie, postanowiliśmy na samym początku pojechać samochodem na parking do Kuźnic. Zaparkowaliśmy na parkingu przy ulicy Mieczysława Karłowicza (20 zł za dzień). Tam zgarnąć nas chciał pan taksówkarz, ale po nieudanej negocjacji ceny, trzymaliśmy się pierwotnego planu dotarcia do Kościeliska busem. Wszystkie przejeżdżają przez przystanek Al. 3-go Maja Dolne, więc dostać się tam było pierwszym krokiem. Poszliśmy na najbliższy przystanek. Gdybym nie pomylił drogi, nie uciekłby nam trochę wcześniejszy bus, ale także nie mielibyśmy pączków :). Aleksy z Bartkiem poszli na pączkowe łowy do sklepu naprzeciwko. Mi się ten pomysł z początku nie spodobał, żeby nie przegapić autobusu, ale gdy tylko poczułem smak pączka w ustach, od razu zmieniłem zdanie :wink:. Tym sposobem nadrobiliśmy tłusty czwartek z dnia poprzedniego.
 
@@ -56,13 +60,17 @@ Zejście z Małołączniaka w stronę Kopy Kondrackiej było całe we mgle. Mlek
 
 Nie wiedzieliśmy do końca co robić. Zacząłem chodzić wzdłuż mglistej ściany w poszukiwaniu szlaku, ale z każdej strony zbocze wyglądało tak samo. Chłopaki wrócili się do drogowskazu, sprawdzić, czy w ogóle mamy dobry kierunek. Nie wiadomo było, gdzie prowadzi szlak, a gdzie jest urwisko. Rozważałem także, czy nie wrócić tak jak tu przyszliśmy. Jednak większość drogi już za nami, a dzień się już powoli kończył. Coś trzeba było zrobić. Zaufałem GPS’owi oraz mapom, które miałem (serdecznie polecam aplikację mapy.cz). Na telefonie miałem pobrane mapy offline. Spróbowałem pójść przed siebie w mleko w taki sposób, żeby nasza pozycja na telefonie poruszała się po czerwonej linii oznaczającej szlak. Totalnie na oślep. Na szczęście mieliśmy sygnał GPS. W ten sposób, kroczek po kroczku, udało nam się przedzierać się w stronę Kopy Kondrackiej. Nie było łatwo. Poziom adrenaliny poszybował. Dodatkowo, nie ma się co oszukiwać, w takich warunkach w takim miejscu wszyscy powinni mieć obowiązkowo raki, a nie raczki. To jest nauczka na przyszłość (szczególnie dla mnie, bo to ja wymyśliłem trasę i prowadziłem). Na szczęście udało się nam wszystkim zachować zimną krew.
 
-**ZDJECIE**
-**Towarzysze z odległości 15 metrów**
+<figure class="align-center">
+  <img src="{{ '/images/2024-04-15-towarzysze-15m-ode-mnie.webp' | absolute_url }}" alt="Towarzysze 15 metrów ode mnie">
+  <figcaption>Towarzysze z odległości 15 metrów</figcaption>
+</figure>
 
 Metodą “spaceru wirtualnego na telefonie” na pewno nie szliśmy możliwie najlepszą drogą, jednak nie byliśmy zupełnie ślepi. Gdy walczyliśmy na stromym zboczu, kiedy starałem się wybijać butami stopnie dla towarzyszy po których mogli łatwiej iść, na krótką chwilę wiatr rozwiał mgłę. To wystarczyło, żeby się zorientować gdzie jesteśmy i gdzie kierować się dalej. Okazało się, że niepotrzebnie idziemy na zboczu, zamiast iść trochę wyżej, grzbietem. Mgła wróciła. Jednak nie sięgała aż do Kopy. Wyszliśmy z mleka, mniej więcej, gdy zaczęło się podejście.
 
-**ZDJECIE**
-**Podchodzimy na Kopę Kondracką**
+<figure class="align-center">
+  <img src="{{ '/images/2024-04-15-wyjscie-z-mgly.webp' | absolute_url }}" alt="Wychodzimy z mgły">
+  <figcaption>Podchodzimy na Kopę Kondracką</figcaption>
+</figure>
 
 Wtedy stres zaczął już schodzić i trochę nam ulżyło. Z dobrą widocznością ten odcinek zrobilibyśmy co najmniej dwa razy szybciej, męcząc się dwa razy mniej. Jestem naprawdę wdzięczny, że wyszliśmy z tego cało.
 
