@@ -12,6 +12,8 @@
 #   url: /recipes/
 - title: O mnie
   url: /about-me/
+- title: Kontakt
+  url: /contact/
 - title: Szukaj
   url: /search/
 # - title: External Page
