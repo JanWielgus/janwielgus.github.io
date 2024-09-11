@@ -35,6 +35,7 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+simple_analytics: true
 disqus:
   shortname: "jan-wielgus-blog"
 twitter:
