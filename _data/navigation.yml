@@ -10,6 +10,8 @@
 #   url: /tags/
 # - title: Recipes
 #   url: /recipes/
+- title: O mnie
+  url: /about-me/
 - title: Szukaj
   url: /search/
 # - title: External Page
