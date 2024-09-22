@@ -38,6 +38,8 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 simple_analytics: true
 disqus:
   shortname: "jan-wielgus-blog"
+# cusdis:
+#   app_id: "3a6f4ea4-6914-43fa-ac75-91e576361344"
 twitter:
   username: "JanWielgus" # site's Twitter username, e.g. "mmistakes"
 
