@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Robiłem, robiłem ... ale nic nie zrobiłem"
-date:   2024-09-22 14:26:00 +0200
+date:   2024-09-17 14:26:00 +0200
 image:
     path: /images/2024-09-22-TH.webp
     thumbnail: /images/2024-09-22-TH.webp

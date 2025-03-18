@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lepsze niż coś nowego"
-date:   2024-09-22 14:26:00 +0200
+date:   2025-02-03 14:26:00 +0200
 image:
     thumbnail: /images/2025-02-03-TH.webp
 excerpt:
