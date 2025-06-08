@@ -15,13 +15,13 @@ This is how to setup it on Ubuntu Linux:
 Install git if you already haven't. (`sudo apt install git`).
 
 Download GitHub Credential Manager.<br>
-Go to https://github.com/git-ecosystem/git-credential-manager/releases, and here choose latest `gcm-linux_amd64` with `.deb` extension.
+Go to [https://github.com/git-ecosystem/git-credential-manager/releases](https://github.com/git-ecosystem/git-credential-manager/releases), and here choose latest `gcm-linux_amd64` with `.deb` extension.
 
 Open directory where you downloaded the file in Ubuntu terminal. Then run:
 ```
 sudo apt install ./<.deb file>
 ```
-I had some warnings, but everything worked after all.
+**Note:** I had an information about some "Permission denied", but everything worked after all.
 
 ## Setting up
 
