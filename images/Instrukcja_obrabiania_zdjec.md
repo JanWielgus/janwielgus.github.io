@@ -29,7 +29,7 @@ Wedle uznania. Najczęściej dotykam Brightness&Contrast oraz Levels.
 
 W zależności czy to jest TH czy głównie zdjęcie posta, (jeśli ma być też główne zdjęcie, lepiej zacząć od większego - głównego) wybieramy opcję Image -> Scale image. Proporcję mamy już zachowaną (z kroku 2). Upewniamy się, że proporcja jest zachowana (spinka pomiędzy rozmiarami) i ustawiamy górny rozmiar.
 - Dla głównego zdjęcia, jeśli szerokość jest większa niż 3840, **zmniejszamy do 3840**. Jeśli jest mniejsza, to nie skalujemy w górę.
-- Dla TH, ustawiamy szerokość na 900px. W**szystkie TH mają rozdzielczość 900x300px**.
+- Dla TH, ustawiamy szerokość na 900px. **Wszystkie TH mają rozdzielczość 900x300px**.
 
 Quality ustawiamy na **NoHalo**. To jest najlepsza opcja do skalowania w dół (zmniejszania). Jeśli bym powiększał, lepiej wybrać LoHalo.
 
