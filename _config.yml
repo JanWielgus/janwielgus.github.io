@@ -54,8 +54,8 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10  # amount of posts to show per page
-paginate_path: /page:num/
+# paginate: 10  # amount of posts to show per page
+# paginate_path: /page:num/
 
 # Search
 search_full_content: true # can have performance implications for large sites
@@ -80,7 +80,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate
+  # - jekyll-paginate
   - jemoji
 
 # Front Matter Defaults
